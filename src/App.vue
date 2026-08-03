@@ -29,11 +29,11 @@ function submitReservation() {
 
 <template>
   <nav class="nav" aria-label="主导航">
-    <a class="brand" href="#top">南园</a>
+    <a class="brand" href="#top">兰亭</a>
     <div class="links">
       <a href="#story">关于我们</a>
       <a href="#menu">当季菜单</a>
-      <a href="#visit">到访南园</a>
+      <a href="#visit">到访兰亭</a>
       <a class="booking" href="#reserve">在线预订</a>
     </div>
   </nav>
@@ -41,7 +41,7 @@ function submitReservation() {
   <main id="top">
     <section class="hero" aria-labelledby="hero-title">
       <div class="hero-content">
-        <div class="eyebrow">NANYUAN · SHANGHAI</div>
+        <div class="eyebrow">LANTING · SHANGHAI</div>
         <h1 id="hero-title">一席风土，<br />四时入味</h1>
         <p>从江南的晨雾到餐桌上的一盏暖茶，以当代手法重新演绎熟悉的中国滋味。</p>
         <a class="button" href="#reserve">预订餐席 <span aria-hidden="true">→</span></a>
@@ -53,7 +53,7 @@ function submitReservation() {
       <div class="section-label">OUR PHILOSOPHY</div>
       <div>
         <h2 id="story-title">一席雅叙，<br />尽兴相逢。</h2>
-        <p>南园想做的，是一张让人愿意久坐的餐桌。这里有刚出锅的热气、有惦记着你口味的用心，也有把日常说成故事的时间。愿每一次举杯与夹菜，都能让你和身边的人，感到被好好招待。</p>
+        <p>兰亭想做的，是一张让人愿意久坐的餐桌。这里有刚出锅的热气、有惦记着你口味的用心，也有把日常说成故事的时间。愿每一次举杯与夹菜，都能让你和身边的人，感到被好好招待。</p>
       </div>
     </section>
 
@@ -108,8 +108,8 @@ function submitReservation() {
   </main>
 
   <footer id="visit">
-    <strong>南园</strong>
-    <span>© 2026 NANYUAN RESTAURANT</span>
+    <strong>兰亭</strong>
+    <span>© 2026 LANTING RESTAURANT</span>
     <span>021 · 6868 1888</span>
   </footer>
 </template>
